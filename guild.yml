@@ -1,0 +1,5 @@
+main:
+  description: trying to reproduce
+  main: main
+  default: yes
+  flags-import: all
