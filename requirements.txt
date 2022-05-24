@@ -1,5 +1,5 @@
 six
-tensorflow==2.2.0
+tensorflow==2.6.4
 tensorflow-gpu==2.2.0
 tensorflow-addons==0.9.1
 git+https://github.com/guildai/guildai.git@master
